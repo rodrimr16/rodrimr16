@@ -4,5 +4,4 @@
 
 #SOBRE MI
 - 🌱 Estoy aprendiendo Java y HTML.
-- 📫 Puedes contactarme en: [tu-email@gmail.com](mailto:tu-email@gmail.com)
-- 📱 Mi número es: +1234567890
+- 📫 Puedes cont+34 657044781
